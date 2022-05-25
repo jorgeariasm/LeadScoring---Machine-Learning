@@ -3,6 +3,7 @@
 
 Proyecto del ámbito de márketing digital, con aplicación de modelos de ML que facilitan la identificación de clientes (Leads) con mayor potencial comercial.
 
+<img width="599" alt="Proceso que genera Lead Scoring" src= "https://github.com/jorgeariasm/LeadScoring---Machine-Learning/blob/main/predictive_lead_scoring.png">
 
 Entre las principales etapas del proyecto destacan:
 
