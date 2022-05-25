@@ -3,7 +3,7 @@
 
 ¿Cómo es el proceso de captación de clientes en las empresas?
 
-Por lo general, las grandes empresas utilizan un modelo comercial inbound multifase donde se identigican 4 etapas:
+Por lo general, las grandes empresas utilizan un modelo comercial inbound multifase donde se identifican 4 etapas:
  * Marketing online y ofline
  * Generación de leads
  * Gestión de leads
@@ -27,10 +27,10 @@ Entre las principales etapas del proyecto destacan:
   * Modelización predictiva
   * Segmentación de clientes
 
-Esta aproximación de Machine Learning en Scikit-learn, está más enfocada al uso optimizado de los algoritmos, frente al análisis pormenorizado en búsqueda de insights 
-de negocio. Haciendo uso de una metodología híbrida entre las más reconocidas CRISP-DM y SEMMA, se ejecutan las etapas secuencialmente, desde la importación de los datos
-y su tratamiento, hasta la modelización y evaluación de los algoritmos utilizados, todo esto gracias a un framework estructurado y replicable en múltiples proyectos, que
-permite la ejecución de los mísmos de forma muy eficaz.
+Esta aproximación de Machine Learning en Scikit-learn, está más enfocada al uso optimizado de los algoritmos, frente al análisis pormenorizado en búsqueda de insights de negocio. 
+
+Haciendo uso de una metodología híbrida entre las más reconocidas CRISP-DM y SEMMA, se ejecutan las etapas secuencialmente, desde la importación de los datos
+y su tratamiento, hasta la modelización y evaluación de los algoritmos utilizados, todo esto gracias a un framework estructurado y replicable en múltiples proyectos, que permite la ejecución de los mísmos de forma muy eficaz.
 
 En las carpetas del proyecto se encuentran:
 
